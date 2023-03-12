@@ -1,4 +1,4 @@
-# A Web Deveoper's Colour Picker
+# A Web Developer's Colour Picker
 
 ## Description
 
